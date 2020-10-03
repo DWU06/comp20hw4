@@ -1,0 +1,40 @@
+@charset "utf-8";
+/* CSS Document */
+
+MusicList {
+	text-align: center;
+	background-color: #ffe6ff;
+}
+
+Music {
+	display: block; 
+	padding: 2% 30%;
+}
+
+Music Name {
+	border: dashed 3px #993366;
+	display: block; 
+	font-size: 30px; 
+	font-weight: 700;
+	color: #993366;
+}
+
+Music Genre {
+	font-size: 20px;
+	display: block;
+	padding: 2% 0;
+}
+
+Music Genre:before {content:"Genre: ";}
+
+Music Title {
+	display: block;
+	font-weight: 700;
+}
+
+Music YearReleased {
+	display: block;
+	padding: 1% 0;
+}
+
+Music YearReleased:before {content:"Year Released: ";}

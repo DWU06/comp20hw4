@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="xmlstyle.css"?>
+
+<MusicList>
+	<Music>
+		<Name>Blackpink</Name>
+		<Genre>K-pop</Genre>
+		<Title>Ice Cream</Title>
+		<YearReleased>2020</YearReleased>
+		<Title>How You Like That</Title>
+		<YearReleased>2020</YearReleased>
+		<Title>Bet you Wanna</Title>
+		<YearReleased>2020</YearReleased>
+		<Title>You Never Know</Title>
+		<YearReleased>2020</YearReleased>
+		<Title>As If It's Your Last</Title>
+		<YearReleased>2019</YearReleased>
+	</Music>
+	<Music>
+		<Name>The 1975</Name>
+		<Genre>Pop rock</Genre>
+		<Title>Be My Mistake</Title>
+		<YearReleased>2018</YearReleased>
+		<Title>Somebody Else</Title>
+		<YearReleased>2016</YearReleased>
+	</Music>
+	<Music>
+		<Name>Billie Eilish</Name>
+		<Genre>Indie pop</Genre>
+		<Title>my future</Title>
+		<YearReleased>2020</YearReleased>
+		<Title>bad guy</Title>
+		<YearReleased>2019</YearReleased>
+		<Title>listen before i go</Title>
+		<YearReleased>2019</YearReleased>
+	</Music>
+	<Music>
+		<Name>Alan Walker</Name>
+		<Genre>EDM</Genre>
+		<Title>Lily</Title>
+		<YearReleased>2018</YearReleased>
+		<Title>Faded</Title>
+		<YearReleased>2015</YearReleased>
+	</Music>
+</MusicList>
